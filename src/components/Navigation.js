@@ -9,7 +9,6 @@ function NavBar() {
             <ul className="shadow" id="menu">
                 <li><Link rel="nofollow" to="about" spy={true} smooth={true}><FontAwesomeIcon icon={faUser} /> About</Link></li>  
                 <li><Link rel="nofollow" to="projects" spy={true} smooth={true}><FontAwesomeIcon icon={faCode} /> Projects</Link></li>
-                <li><Link rel="nofollow" to="resume" spy={true} smooth={true}><FontAwesomeIcon icon={faClipboard} /> Resume</Link></li>
             </ul>
         </header> 
     )
