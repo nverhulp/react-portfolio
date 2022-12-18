@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.9b47d8b1.css",
-    "main.js": "/react-portfolio/static/js/main.97ed7afc.js",
-    "static/media/bops.jpg": "/react-portfolio/static/media/bops.0d07bae4abb416770190.jpg",
-    "static/media/wildfire-app.jpg": "/react-portfolio/static/media/wildfire-app.4c1e8dab2b12900a38ad.jpg",
-    "static/media/movie-app.jpg": "/react-portfolio/static/media/movie-app.8494d75d34bd542a589f.jpg",
-    "static/media/work-day-scheduler.jpg": "/react-portfolio/static/media/work-day-scheduler.c98f587010f08e68ec01.jpg",
-    "static/media/code-quiz.jpg": "/react-portfolio/static/media/code-quiz.35f6a67a4c4623b19b00.jpg",
-    "static/media/password-generator.jpg": "/react-portfolio/static/media/password-generator.8c69cd667c31485a8916.jpg",
-    "static/media/boho.jpg": "/react-portfolio/static/media/boho.bd2fc15ce31f7521e92c.jpg",
-    "index.html": "/react-portfolio/index.html",
-    "main.9b47d8b1.css.map": "/react-portfolio/static/css/main.9b47d8b1.css.map",
-    "main.97ed7afc.js.map": "/react-portfolio/static/js/main.97ed7afc.js.map"
+    "main.css": "/react-portfolio/src/static/css/main.9b47d8b1.css",
+    "main.js": "/react-portfolio/src/static/js/main.adf1c21d.js",
+    "static/media/bops.jpg": "/react-portfolio/src/static/media/bops.0d07bae4abb416770190.jpg",
+    "static/media/wildfire-app.jpg": "/react-portfolio/src/static/media/wildfire-app.4c1e8dab2b12900a38ad.jpg",
+    "static/media/movie-app.jpg": "/react-portfolio/src/static/media/movie-app.8494d75d34bd542a589f.jpg",
+    "static/media/work-day-scheduler.jpg": "/react-portfolio/src/static/media/work-day-scheduler.c98f587010f08e68ec01.jpg",
+    "static/media/code-quiz.jpg": "/react-portfolio/src/static/media/code-quiz.35f6a67a4c4623b19b00.jpg",
+    "static/media/password-generator.jpg": "/react-portfolio/src/static/media/password-generator.8c69cd667c31485a8916.jpg",
+    "static/media/boho.jpg": "/react-portfolio/src/static/media/boho.bd2fc15ce31f7521e92c.jpg",
+    "index.html": "/react-portfolio/src/index.html",
+    "main.9b47d8b1.css.map": "/react-portfolio/src/static/css/main.9b47d8b1.css.map",
+    "main.adf1c21d.js.map": "/react-portfolio/src/static/js/main.adf1c21d.js.map"
   },
   "entrypoints": [
     "static/css/main.9b47d8b1.css",
-    "static/js/main.97ed7afc.js"
+    "static/js/main.adf1c21d.js"
   ]
 }
