@@ -1,7 +1,10 @@
+import Avatar from "../Avatar";
+
 function About() {
     return (
         <section>
             <h1 className='text-center m-2'>Hi, I'm Nicole J. Verhulp</h1>
+            <Avatar />
             <article className='mx-lg-4'>
                 <p className='m-4 aboutText'>
                     I am a recent graduate of University of California, Davis with a major of Psychology and Political Science. 
