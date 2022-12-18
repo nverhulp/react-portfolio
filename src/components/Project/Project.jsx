@@ -1,7 +1,9 @@
-import bops from '../../assets/bops.png';
-import movieApp from '../../assets/movie-app.png';
-import wildFireApp from '../../assets/wildfire-app.png';
-import passwordGenerator from '../../assets/password-generator.png';
+import bops from '../../assets/bops.jpg';
+import movieApp from '../../assets/movie-app.jpg';
+import wildFireApp from '../../assets/wildfire-app.jpg';
+import passwordGenerator from '../../assets/password-generator.jpg';
+import workDayScheduler from '../../assets/work-day-scheduler.jpg';
+import codeQuiz from '../../assets/code-quiz.jpg';
 
 function Project() {
     const projectList = [
@@ -40,6 +42,24 @@ function Project() {
             description: " This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.",
             repo: "https://github.com/nverhulp/password-generator",
             live: "https://nverhulp.github.io/password-generator/",
+        },
+        {
+            id: 4,
+            title: "Work Day Scheduler",
+            tech: "HTML, CSS, JavaScript",
+            img: workDayScheduler,
+            description: "Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.",
+            repo: "https://github.com/nverhulp/work-day-scheduler",
+            live: "https://nverhulp.github.io/work-day-scheduler/",
+        },
+        {
+            id: 5,
+            title: "Code Quiz",
+            tech: "HTML, CSS, JavaScript",
+            img: codeQuiz,
+            description: "This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface.",
+            repo: "https://github.com/nverhulp/code-quiz",
+            live: "https://nverhulp.github.io/code-quiz/",
         },
     ]
     return (
