@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.9b47d8b1.css",
+    "main.js": "/photo-port/static/js/main.2c8fb10f.js",
+    "static/media/bops.jpg": "/photo-port/static/media/bops.0d07bae4abb416770190.jpg",
+    "static/media/wildfire-app.jpg": "/photo-port/static/media/wildfire-app.4c1e8dab2b12900a38ad.jpg",
+    "static/media/movie-app.jpg": "/photo-port/static/media/movie-app.8494d75d34bd542a589f.jpg",
+    "static/media/work-day-scheduler.jpg": "/photo-port/static/media/work-day-scheduler.c98f587010f08e68ec01.jpg",
+    "static/media/code-quiz.jpg": "/photo-port/static/media/code-quiz.35f6a67a4c4623b19b00.jpg",
+    "static/media/password-generator.jpg": "/photo-port/static/media/password-generator.8c69cd667c31485a8916.jpg",
+    "static/media/boho.jpg": "/photo-port/static/media/boho.bd2fc15ce31f7521e92c.jpg",
+    "index.html": "/photo-port/index.html",
+    "main.9b47d8b1.css.map": "/photo-port/static/css/main.9b47d8b1.css.map",
+    "main.2c8fb10f.js.map": "/photo-port/static/js/main.2c8fb10f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b47d8b1.css",
+    "static/js/main.2c8fb10f.js"
+  ]
+}
