@@ -1,23 +1,38 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Project from './components/Project';
+import About from './components/About';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 function App() {
+  const [categories] = useState(['about', 'portfolio', 'contact', 'resume']);
+  const [currentCategory, setCurrentCategory] = useState(categories[0]);
+  function renderComponent(currentCategory) {
+    switch (currentCategory) {
+      case 'about':
+        return <About />;
+      case 'portfolio':
+        return <Project />;
+      case 'contact':
+        return <Contact />;
+      case 'resume':
+        return <Resume />; 
+      default:
+        return <About />;
+    }
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App min-vh-100 position-relative">
+      <div className='content-wrap'>
+        <Header currentCategory={currentCategory} setCurrentCategory={setCurrentCategory} />
+        <main>
+          {renderComponent(currentCategory)}
+        </main>
+      </div>
+      <Footer />
     </div>
   );
 }
