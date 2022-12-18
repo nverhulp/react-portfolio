@@ -19,4 +19,4 @@ function MyAvatar() {
     )
   }
 
-export default MyAvatar
+export default MyAvatar;
