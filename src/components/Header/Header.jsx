@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from '../Navigation';
-import boho from '../../assets/boho.png';
+import boho from '../../assets/boho.jpg';
 
 function Header(props) {
     const { currentCategory, setCurrentCategory } = props;
