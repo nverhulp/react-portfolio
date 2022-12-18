@@ -15,6 +15,7 @@ Now that you’ve completed multiple projects, your task is to create a portfoli
 
 ## Deployed Page
 
+<img src="./assets/deployed-page.png">
 
 ## Acceptance Criteria
 
@@ -50,3 +51,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Credits
 1. Generated an avatar from [Avataaars](https://getavataaars.com/)
+2. Inspiration from [GitHub](https://github.com/topics/react-portfolio)
+3. Porfolio building guide from [freeCodeCamp](https://www.freecodecamp.org/news/build-portfolio-website-react/)
+4. Assistance from AskBCS Learning Assistant 
