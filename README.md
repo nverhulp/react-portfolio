@@ -15,7 +15,7 @@ Now that you’ve completed multiple projects, your task is to create a portfoli
 
 ## Deployed Page
 
-<img src='./assets/deployed-page.png'>
+<img src="./assets/deployed-page.png">
 
 ## Acceptance Criteria
 
