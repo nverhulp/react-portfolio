@@ -49,3 +49,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Credits
+1. Generated an avatar from [Avataaars](https://getavataaars.com/)
