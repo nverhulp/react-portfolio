@@ -15,7 +15,7 @@ Now that you’ve completed multiple projects, your task is to create a portfoli
 
 ## Deployed Page
 
-<img src="./assets/deployed-page.png">
+<img width="1642" alt="deployed-page" src="https://user-images.githubusercontent.com/105401594/208272261-c36e848f-1a6e-41c2-8f21-2231730a7aa9.png">
 
 ## Acceptance Criteria
 
